@@ -5,12 +5,18 @@ body {
 }
 
 h1 {
-    color: #04ff04;
+    color: #ffffff;
     text-align: center;
     margin-top: 50px;
+    
+}
+
+h2 {
+    color: #049bff;
+    margin-top: 50px;
+    
 }
 
 p {
     color: #04ff04;
-    text-align: center;
 }
